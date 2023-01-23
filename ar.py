@@ -1,0 +1,2 @@
+e=("elephant")
+print(e)
